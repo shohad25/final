@@ -1,0 +1,24 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Acknowledgments}{5}{chapter.1}
+\contentsline {chapter}{\numberline {2}Introduction}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}MRI basics}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Physics}{6}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}MRI Acquisition}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}K-space}{6}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Artifacts and Aliasing}{6}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}MRI Acceleration}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Classic methods}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Data Driven Methods}{7}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}Method}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}K-space}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Objective}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Network Architecture}{10}{section.3.3}
+\contentsline {chapter}{\numberline {4}Experimental Results}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Random Gaussian Sampling}{12}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}PSNR and SSIM}{13}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Brain Extraction - Skull Stripping}{15}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Brain Segmentation}{16}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Phase Encoding Sampling}{19}{section.4.2}
+\contentsline {chapter}{\numberline {5}Summary and Discussion}{22}{chapter.5}
+\contentsline {section}{\numberline {5.1}Discussion}{22}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Acknowledgment}{22}{subsection.5.1.1}
