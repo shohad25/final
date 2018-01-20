@@ -53,7 +53,8 @@
 \begin{abstract}
 A main challenge in Magnetic Resonance Imaging (MRI) for clinical applications is speeding up scan time. Beyond the improvement of patient experience and the reduction of operational costs, faster scans are essential for time-sensitive imaging, where target movement is unavoidable, yet must be significantly lessened, e.g., fetal MRI, cardiac cine, and lungs imaging. Moreover, short scan time can enhance temporal resolution in dynamic scans, such as functional MRI or dynamic contrast enhanced MRI. Current imaging methods facilitate MRI acquisition at the price of lower spatial resolution and costly hardware solutions.
 
-We introduce a practical, software-only framework, based on deep learning, for accelerating MRI scan time allows maintaining good quality imaging. This is accomplished by partial MRI sampling, while using an adversarial neural network to estimate the missing samples. The inter-play between the generator and the discriminator networks enables the introduction of an adversarial cost in addition to a fidelity loss used for optimizing the peak signal-to-noise ratio (PSNR). Promising image reconstruction results are obtained for 3T and 1.5T MRI where only 40\%, 25\% and 16.6\% of the original data are used. Extended performance assessment was conducted in order to emphasize the advantage of proposed method.
+We introduce a practical, software-only framework, based on deep learning, for accelerating MRI acquisition, while maintaining anatomically meaningful imaging. This is accomplished by partial MRI sampling, while using an adversarial neural network to directly estimate the missing k-space samples. The inter-play between the generator and the discriminator networks enables the introduction of an adversarial cost in addition to a fidelity loss used for optimizing the peak signal-to-noise ratio (PSNR). Promising image reconstruction results are obtained for 3T and 1.5T brain MRI, from large publicly available dataset, where only 40\%, 25\% and 16.6\% of the raw samples of each scan are used. To assess the clinical usability of the reconstructed images we also performed tissue segmentation and compared the results to those obtained by using the original fully-sampled images.
+Segmentation compatibility, measured in terms of Dice scores and Hausdorff distances, demonstrate the quality of the proposed MRI reconstruction with respect to other methods, including the widely-used Compressed Sensing.
 \end{abstract}
 
 % ------------- TABLE OF CONTENTS ------------- $
@@ -66,15 +67,29 @@ We introduce a practical, software-only framework, based on deep learning, for a
 \begin{itemize}
 %	\item[1]{Tzachi Hershkovich, et al. Probabilistic model for 3D interactive segmentation. Computer Vision and Image Understanding (CVIU), Special Issue on Probabilistic Models for Biomedical Image Analysis, 2016.}
 	\item[1]{
-		Ohad Shitrit, Tzachi Hershkovich ,Tamar Shalmon, Ilan Shelef, and Tammy Riklin Raviv. Probabilistic model for 3D interactive segmentation, In MICCAI workshop on Interactive Medical Image Computing (IMIC), 2014.}
-	\item[2]{Ohad Shitrit and Tammy Riklin Raviv. Accelerated Magnetic Resonance Imaging by Adversarial Neural Network. In Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support (pp. 30-38). Springer, Cham.}
+	Ohad Shitrit, Tzachi Hershkovich ,Tamar Shalmon, Ilan Shelef, and Tammy Riklin Raviv. Probabilistic model for 3D interactive segmentation, In MICCAI workshop on Interactive Medical Image Computing (IMIC), 2014.}
+
+	\item[2]{Tzachi Hershkovich ,Ohad Shitrit, Tammy Riklin Raviv et al., T.R., 2016. Probabilistic model for 3D interactive segmentation. Computer Vision and Image Understanding, 151, pp.47-60.
+		Vancouver}
+	
+	\item[3]{Ohad Shitrit and Tammy Riklin Raviv. Accelerated Magnetic Resonance Imaging by Adversarial Neural Network. In Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support (pp. 30-38). Springer, Cham.}
+	
+	\item[4]{ TODO: add the Journal submission 
+			}
 	
 \end{itemize}
 
 % ------------- Acknowledgments ------------- $
 \chapter{Acknowledgments}
-In this chapter I will write Acknowledgments.
+This was a great journey, challenging and educational. Thanks to all the amazing people that support, encouraged and guided me through these years.
 
+First of all, I would like to thank to my supervisor, Dr. Tammy Riklin-Raviv, for guiding me in the last four years. Starting from the my undergraduate final project, during my master and my thesis research. Thanks for letting me be a part of one of the most fascinating filed of research. I admire your professionalism, dedication and your curiosity, which always been an inspiration for me.
+Tammy, thank you for the long hours of conversations, tips and guidances at any time,
+explaining theory and ideas in a simple and easy way to understand. All these are made me a better researcher and engineer.
+
+Second, I want to thank to my lab colleagues, for a fruitful brainstormings, technical support and most important, being my friends. Great thanks to Tzachi Hershkovich, that was my partner of my undergraduate final project, I have learned a lot from you.
+
+Last but not least, I want to thank to my life partner, my beloved wife Lee, for all your support during this journey. You encouraged me to be who I am today.
 
 % ------------- INTRO ------------- $
 \chapter{Introduction}\label{chap:INTRO}
