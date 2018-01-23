@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.5)  20 JAN 2018 18:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.5)  20 JAN 2018 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -585,7 +585,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-<ENGLISH_TITLE.pdf, id=96, 614.295pt x 794.97pt>
+<ENGLISH_TITLE.pdf, id=80, 614.295pt x 794.97pt>
 File: ENGLISH_TITLE.pdf Graphic file (type pdf)
  <use ENGLISH_TITLE.pdf>
 Package pdftex.def Info: ENGLISH_TITLE.pdf used on input line 49.
@@ -596,7 +596,7 @@ File: ENGLISH_TITLE.pdf Graphic file (type pdf)
 Package pdftex.def Info: ENGLISH_TITLE.pdf used on input line 49.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<ENGLISH_TITLE.pdf, id=99, page=1, 614.295pt x 794.97pt>
+<ENGLISH_TITLE.pdf, id=83, page=1, 614.295pt x 794.97pt>
 File: ENGLISH_TITLE.pdf Graphic file (type pdf)
 
 <use ENGLISH_TITLE.pdf, page 1>
@@ -623,7 +623,7 @@ Package pdftex.def Info: ENGLISH_TITLE.pdf, page1 used on input line 49.
  [1
 
  <./ENGLISH_TITLE.pdf>]
-<ENGLISH_TITLE_SIGN.pdf, id=122, 614.295pt x 794.97pt>
+<ENGLISH_TITLE_SIGN.pdf, id=106, 614.295pt x 794.97pt>
 File: ENGLISH_TITLE_SIGN.pdf Graphic file (type pdf)
 
 <use ENGLISH_TITLE_SIGN.pdf>
@@ -634,7 +634,7 @@ File: ENGLISH_TITLE_SIGN.pdf Graphic file (type pdf)
 Package pdftex.def Info: ENGLISH_TITLE_SIGN.pdf used on input line 50.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<ENGLISH_TITLE_SIGN.pdf, id=125, page=1, 614.295pt x 794.97pt>
+<ENGLISH_TITLE_SIGN.pdf, id=109, page=1, 614.295pt x 794.97pt>
 File: ENGLISH_TITLE_SIGN.pdf Graphic file (type pdf)
 
 <use ENGLISH_TITLE_SIGN.pdf, page 1>
@@ -730,89 +730,236 @@ Chapter 2.
 
 ]
 
-LaTeX Warning: Reference `experiments_section' on page 7 undefined on input lin
-e 122.
+LaTeX Warning: Citation `moeller2010multiband' on page 7 undefined on input lin
+e 140.
 
-[7] [8]
+
+LaTeX Warning: Citation `roemer1990nmr' on page 7 undefined on input line 144.
+
+
+LaTeX Warning: Citation `Deshmane2012' on page 7 undefined on input line 144.
+
+
+LaTeX Warning: Citation `pruessmann1999sense' on page 7 undefined on input line
+ 144.
+
+
+LaTeX Warning: Citation `griswold2002generalized' on page 7 undefined on input 
+line 145.
+
+
+LaTeX Warning: Citation `donoho2006compressed' on page 7 undefined on input lin
+e 147.
+
+
+LaTeX Warning: Citation `lustig2007sparse' on page 7 undefined on input line 14
+7.
+
+[7]
+
+LaTeX Warning: Citation `ravishankar2011mr' on page 8 undefined on input line 1
+52.
+
+
+LaTeX Warning: Citation `caballero2014dictionary' on page 8 undefined on input 
+line 152.
+
+
+LaTeX Warning: Citation `bhatia2014hierarchical' on page 8 undefined on input l
+ine 154.
+
+
+LaTeX Warning: Citation `usman2014compressive' on page 8 undefined on input lin
+e 154.
+
+
+LaTeX Warning: Citation `bhatia2015fast' on page 8 undefined on input line 154.
+
+
+
+LaTeX Warning: Citation `wang2016accelerating' on page 8 undefined on input lin
+e 156.
+
+
+LaTeX Warning: Citation `Oktay2016' on page 8 undefined on input line 156.
+
+
+LaTeX Warning: Citation `lee2017deep' on page 8 undefined on input line 158.
+
+
+LaTeX Warning: Citation `hyun2017deep' on page 8 undefined on input line 158.
+
+
+LaTeX Warning: Citation `ronneberger2015u' on page 8 undefined on input line 15
+8.
+
+
+LaTeX Warning: Citation `lee2017deep' on page 8 undefined on input line 158.
+
+
+LaTeX Warning: Citation `hyun2017deep' on page 8 undefined on input line 158.
+
+
+LaTeX Warning: Citation `sandinodeep' on page 8 undefined on input line 158.
+
+
+LaTeX Warning: Citation `goodfellow2014generative' on page 8 undefined on input
+ line 160.
+
+
+LaTeX Warning: Citation `radford2015unsupervised' on page 8 undefined on input 
+line 160.
+
+
+LaTeX Warning: Citation `pathak2016context' on page 8 undefined on input line 1
+60.
+
+
+LaTeX Warning: Citation `yu2017deep' on page 8 undefined on input line 162.
+
+
+LaTeX Warning: Citation `mardani2017deep' on page 8 undefined on input line 162
+.
+
+
+LaTeX Warning: Citation `nie2016medical' on page 8 undefined on input line 162.
+
+
+[8]
+
+LaTeX Warning: Citation `lustig2007sparse' on page 9 undefined on input line 16
+5.
+
+[9]
 Chapter 3.
 
-<include/grp1/example_mask_kspace_with_arrows.png, id=305, 233.37187pt x 233.37
+<include/grp1/example_mask_kspace_with_arrows.png, id=252, 233.37187pt x 233.37
 187pt>
 File: include/grp1/example_mask_kspace_with_arrows.png Graphic file (type png)
  <use include/grp1/example_mask_kspace_with_arrows.png>
 Package pdftex.def Info: include/grp1/example_mask_kspace_with_arrows.png used 
-on input line 148.
+on input line 184.
 (pdftex.def)             Requested size: 71.13023pt x 71.13023pt.
 
-<include/grp2/example_original.png, id=307, 309.60468pt x 589.14503pt>
+<include/grp2/example_original.png, id=254, 309.60468pt x 589.14503pt>
 File: include/grp2/example_original.png Graphic file (type png)
 
 <use include/grp2/example_original.png>
 Package pdftex.def Info: include/grp2/example_original.png used on input line 1
-50.
+86.
 (pdftex.def)             Requested size: 71.13197pt x 71.12585pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []\T1/cmr/m/n/8 (b) |[]\T1/cmr/m/n/7 fully sam-pled
  []
 
-<include/grp2/example_samplingMask4.png, id=308, 309.60468pt x 589.14503pt>
+<include/grp2/example_samplingMask4.png, id=255, 309.60468pt x 589.14503pt>
 File: include/grp2/example_samplingMask4.png Graphic file (type png)
 
 <use include/grp2/example_samplingMask4.png>
 Package pdftex.def Info: include/grp2/example_samplingMask4.png used on input l
-ine 152.
+ine 188.
 (pdftex.def)             Requested size: 71.13197pt x 71.12585pt.
 
-<include/grp2/example_zeroPadding.png, id=309, 309.60468pt x 589.14503pt>
+<include/grp2/example_zeroPadding.png, id=256, 309.60468pt x 589.14503pt>
 File: include/grp2/example_zeroPadding.png Graphic file (type png)
 
 <use include/grp2/example_zeroPadding.png>
 Package pdftex.def Info: include/grp2/example_zeroPadding.png used on input lin
-e 153.
+e 189.
 (pdftex.def)             Requested size: 71.13197pt x 71.12585pt.
 
-Overfull \hbox (0.85623pt too wide) in paragraph at lines 145--155
+Overfull \hbox (0.85623pt too wide) in paragraph at lines 181--191
  [][] 
  []
 
-[9
+[10
 
  <./include/grp1/example_mask_kspace_with_arrows.png> <./include/grp2/example_o
 riginal.png> <./include/grp2/example_samplingMask4.png> <./include/grp2/example
-_zeroPadding.png>] [10]
-<include/grp2/system_chart.png, id=351, 937.5025pt x 425.59pt>
+_zeroPadding.png>]
+
+LaTeX Warning: Citation `pathak2016context' on page 11 undefined on input line 
+201.
+
+
+LaTeX Warning: Citation `goodfellow2014generative' on page 11 undefined on inpu
+t line 204.
+
+
+LaTeX Warning: Citation `radford2015unsupervised' on page 11 undefined on input
+ line 204.
+
+
+LaTeX Warning: Citation `arjovsky2017wasserstein' on page 11 undefined on input
+ line 222.
+
+
+LaTeX Warning: Citation `he2016deep' on page 11 undefined on input line 231.
+
+
+LaTeX Warning: Citation `Oktay2016' on page 11 undefined on input line 231.
+
+[11] <include/grp2/system_chart.png, id=284, 937.5025pt x 425.59pt>
 File: include/grp2/system_chart.png Graphic file (type png)
 
 <use include/grp2/system_chart.png>
-Package pdftex.def Info: include/grp2/system_chart.png used on input line 208.
+Package pdftex.def Info: include/grp2/system_chart.png used on input line 244.
 (pdftex.def)             Requested size: 341.42024pt x 113.80685pt.
 
-<include/grp2/generator_arch.png, id=354, 1267.73625pt x 345.29pt>
+
+LaTeX Warning: Citation `radford2015unsupervised' on page 12 undefined on input
+ line 249.
+
+<include/grp2/generator_arch.png, id=286, 1267.73625pt x 345.29pt>
 File: include/grp2/generator_arch.png Graphic file (type png)
 
 <use include/grp2/generator_arch.png>
-Package pdftex.def Info: include/grp2/generator_arch.png used on input line 221
+Package pdftex.def Info: include/grp2/generator_arch.png used on input line 257
 .
 (pdftex.def)             Requested size: 312.96774pt x 56.90189pt.
 
-<include/grp2/discrimonator_arch.png, id=355, 1054.94125pt x 300.12125pt>
+<include/grp2/discrimonator_arch.png, id=287, 1054.94125pt x 300.12125pt>
 File: include/grp2/discrimonator_arch.png Graphic file (type png)
 
 <use include/grp2/discrimonator_arch.png>
 Package pdftex.def Info: include/grp2/discrimonator_arch.png used on input line
- 228.
+ 264.
 (pdftex.def)             Requested size: 312.97565pt x 56.90456pt.
- [11 <./include/grp2/system_chart.png> <./include/grp2/generator_arch.png> <./i
+ [12 <./include/grp2/system_chart.png> <./include/grp2/generator_arch.png> <./i
 nclude/grp2/discrimonator_arch.png>]
 Chapter 4.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 240.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 276.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [12
+)
+
+LaTeX Warning: Citation `shitrit2017accelerated' on page 13 undefined on input 
+line 280.
+
+
+LaTeX Warning: Citation `glorot2010understanding' on page 13 undefined on input
+ line 283.
+
+
+LaTeX Warning: Citation `lustig2007sparse' on page 13 undefined on input line 2
+85.
+
+
+LaTeX Warning: Citation `ronneberger2015u' on page 13 undefined on input line 2
+87.
+
+
+LaTeX Warning: Citation `hyun2017deep' on page 13 undefined on input line 287.
+
+[13
 
 ]
+
+LaTeX Warning: Citation `wang2004image' on page 14 undefined on input line 289.
+
+
 Package epstopdf Info: Source file: <include/grp2/mask2.eps>
 (epstopdf)                    date: 2018-01-15 20:15:08
 (epstopdf)                    size: 1190313 bytes
@@ -821,15 +968,14 @@ Package epstopdf Info: Source file: <include/grp2/mask2.eps>
 (epstopdf)                    size: 37054 bytes
 (epstopdf)             Command: <repstopdf --outfile=include/grp2/mask2-eps-con
 verted-to.pdf include/grp2/mask2.eps>
-(epstopdf)             \includegraphics on input line 261.
+(epstopdf)             \includegraphics on input line 294.
 Package epstopdf Info: Output file is already uptodate.
-
-<include/grp2/mask2-eps-converted-to.pdf, id=383, 111.41624pt x 272.01625pt>
+<include/grp2/mask2-eps-converted-to.pdf, id=308, 111.41624pt x 272.01625pt>
 File: include/grp2/mask2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use include/grp2/mask2-eps-converted-to.pdf>
 Package pdftex.def Info: include/grp2/mask2-eps-converted-to.pdf used on input 
-line 261.
+line 294.
 (pdftex.def)             Requested size: 85.35895pt x 85.35767pt.
 Package epstopdf Info: Source file: <include/grp2/mask4.eps>
 (epstopdf)                    date: 2018-01-15 20:15:08
@@ -839,15 +985,15 @@ Package epstopdf Info: Source file: <include/grp2/mask4.eps>
 (epstopdf)                    size: 37051 bytes
 (epstopdf)             Command: <repstopdf --outfile=include/grp2/mask4-eps-con
 verted-to.pdf include/grp2/mask4.eps>
-(epstopdf)             \includegraphics on input line 263.
+(epstopdf)             \includegraphics on input line 296.
 Package epstopdf Info: Output file is already uptodate.
 
-<include/grp2/mask4-eps-converted-to.pdf, id=384, 111.41624pt x 272.01625pt>
+<include/grp2/mask4-eps-converted-to.pdf, id=309, 111.41624pt x 272.01625pt>
 File: include/grp2/mask4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use include/grp2/mask4-eps-converted-to.pdf>
 Package pdftex.def Info: include/grp2/mask4-eps-converted-to.pdf used on input 
-line 263.
+line 296.
 (pdftex.def)             Requested size: 85.35895pt x 85.35767pt.
 Package epstopdf Info: Source file: <include/grp2/mask6.eps>
 (epstopdf)                    date: 2018-01-15 20:15:08
@@ -857,31 +1003,39 @@ Package epstopdf Info: Source file: <include/grp2/mask6.eps>
 (epstopdf)                    size: 37050 bytes
 (epstopdf)             Command: <repstopdf --outfile=include/grp2/mask6-eps-con
 verted-to.pdf include/grp2/mask6.eps>
-(epstopdf)             \includegraphics on input line 265.
+(epstopdf)             \includegraphics on input line 298.
 Package epstopdf Info: Output file is already uptodate.
 
-<include/grp2/mask6-eps-converted-to.pdf, id=385, 111.41624pt x 272.01625pt>
+<include/grp2/mask6-eps-converted-to.pdf, id=310, 111.41624pt x 272.01625pt>
 File: include/grp2/mask6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use include/grp2/mask6-eps-converted-to.pdf>
 Package pdftex.def Info: include/grp2/mask6-eps-converted-to.pdf used on input 
-line 265.
+line 298.
 (pdftex.def)             Requested size: 85.35895pt x 85.35767pt.
 
-<include/grp2/error_psnr_errorbar.png, id=388, 462.528pt x 346.896pt>
+<include/grp2/error_psnr_errorbar.png, id=313, 462.528pt x 346.896pt>
 File: include/grp2/error_psnr_errorbar.png Graphic file (type png)
 
 <use include/grp2/error_psnr_errorbar.png>
 Package pdftex.def Info: include/grp2/error_psnr_errorbar.png used on input lin
-e 297.
+e 330.
 (pdftex.def)             Requested size: 241.49895pt x 181.12799pt.
- [13 <./include/grp2/mask2-eps-converted-to.pdf> <./include/grp2/mask4-eps-conv
+ [14 <./include/grp2/mask2-eps-converted-to.pdf> <./include/grp2/mask4-eps-conv
 erted-to.pdf> <./include/grp2/mask6-eps-converted-to.pdf>]
 
-LaTeX Warning: Reference `tbl:PSNR_WITH_MASK' on page 14 undefined on input lin
-e 301.
+LaTeX Warning: Citation `zhang2001segmentation' on page 15 undefined on input l
+ine 334.
 
-[14 <./include/grp2/error_psnr_errorbar.png>]
+
+LaTeX Warning: Citation `smith2002fast' on page 15 undefined on input line 385.
+
+
+
+LaTeX Warning: Citation `dubuisson1994modified' on page 15 undefined on input l
+ine 385.
+
+[15 <./include/grp2/error_psnr_errorbar.png>]
 Package epstopdf Info: Source file: <include/grp2/skull_stripping.eps>
 (epstopdf)                    date: 2018-01-15 20:15:08
 (epstopdf)                    size: 7199421 bytes
@@ -891,16 +1045,16 @@ Package epstopdf Info: Source file: <include/grp2/skull_stripping.eps>
 (epstopdf)                    size: 254362 bytes
 (epstopdf)             Command: <repstopdf --outfile=include/grp2/skull_strippi
 ng-eps-converted-to.pdf include/grp2/skull_stripping.eps>
-(epstopdf)             \includegraphics on input line 386.
+(epstopdf)             \includegraphics on input line 419.
 Package epstopdf Info: Output file is already uptodate.
 
-<include/grp2/skull_stripping-eps-converted-to.pdf, id=427, 221.82875pt x 247.9
+<include/grp2/skull_stripping-eps-converted-to.pdf, id=349, 221.82875pt x 247.9
 2625pt>
 File: include/grp2/skull_stripping-eps-converted-to.pdf Graphic file (type pdf)
 
  <use include/grp2/skull_stripping-eps-converted-to.pdf>
 Package pdftex.def Info: include/grp2/skull_stripping-eps-converted-to.pdf used
- on input line 386.
+ on input line 419.
 (pdftex.def)             Requested size: 85.35524pt x 99.58487pt.
 Package epstopdf Info: Source file: <include/grp2/skull_stripping_brain.eps>
 (epstopdf)                    date: 2018-01-15 20:15:08
@@ -911,523 +1065,537 @@ verted-to.pdf>
 (epstopdf)                    size: 254369 bytes
 (epstopdf)             Command: <repstopdf --outfile=include/grp2/skull_strippi
 ng_brain-eps-converted-to.pdf include/grp2/skull_stripping_brain.eps>
-(epstopdf)             \includegraphics on input line 388.
+(epstopdf)             \includegraphics on input line 421.
 Package epstopdf Info: Output file is already uptodate.
 
-<include/grp2/skull_stripping_brain-eps-converted-to.pdf, id=428, 221.82875pt x
+<include/grp2/skull_stripping_brain-eps-converted-to.pdf, id=350, 221.82875pt x
  247.92625pt>
 File: include/grp2/skull_stripping_brain-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use include/grp2/skull_stripping_brain-eps-converted-to.pdf>
 Package pdftex.def Info: include/grp2/skull_stripping_brain-eps-converted-to.pd
-f used on input line 388.
+f used on input line 421.
 (pdftex.def)             Requested size: 85.35524pt x 99.58487pt.
 
-<include/grp2/hausdorff.png, id=429, 513.92pt x 508.90125pt>
+<include/grp2/hausdorff.png, id=351, 513.92pt x 508.90125pt>
 File: include/grp2/hausdorff.png Graphic file (type png)
 
 <use include/grp2/hausdorff.png>
-Package pdftex.def Info: include/grp2/hausdorff.png used on input line 390.
+Package pdftex.def Info: include/grp2/hausdorff.png used on input line 423.
 (pdftex.def)             Requested size: 99.58272pt x 99.58089pt.
- [15 <./include/grp2/skull_stripping-eps-converted-to.pdf> <./include/grp2/skul
-l_stripping_brain-eps-converted-to.pdf> <./include/grp2/hausdorff.png>]
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 453--453
+
+
+LaTeX Warning: Citation `smith2002fast' on page 16 undefined on input line 433.
+
+
+
+LaTeX Warning: Citation `zhang2001segmentation' on page 16 undefined on input l
+ine 433.
+
+[16 <./include/grp2/skull_stripping-eps-converted-to.pdf> <./include/grp2/skull
+_stripping_brain-eps-converted-to.pdf> <./include/grp2/hausdorff.png>]
+
+LaTeX Warning: Citation `dice1945measures' on page 17 undefined on input line 4
+35.
+
+
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 486--486
 []|[]|  
  []
 
 
-Overfull \vbox (44.64403pt too high) detected at line 453
+Overfull \vbox (44.64403pt too high) detected at line 486
  []
 
 
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__50.png, id=500,
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__50.png, id=418,
  190.21465pt x 173.73708pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__50.png Gra
 phic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__50.png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__50.png used on input line 455.
+_images__50.png used on input line 488.
 (pdftex.def)             Requested size: 71.13293pt x 71.13191pt.
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zeroPadding_50.
-png, id=501, 190.21465pt x 173.73708pt>
+png, id=419, 190.21465pt x 173.73708pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zeroPaddin
 g_50.png Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zeroPadding
 _50.png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__zeroPadding_50.png used on input line 456.
+_images__zeroPadding_50.png used on input line 489.
 (pdftex.def)             Requested size: 71.13293pt x 71.13191pt.
 
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_50.png, id=5
-02, 190.21465pt x 173.73708pt>
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_50.png, id=4
+20, 190.21465pt x 173.73708pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_50.png 
 Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_50.png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__CS_50.png used on input line 456.
+_images__CS_50.png used on input line 489.
 (pdftex.def)             Requested size: 71.13293pt x 71.13191pt.
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__IMCNNL2TUNE_50.
-png, id=503, 158.41583pt x 144.82909pt>
+png, id=421, 158.41583pt x 144.82909pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__IMCNNL2TUN
 E_50.png Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__IMCNNL2TUNE
 _50.png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__IMCNNL2TUNE_50.png used on input line 456.
+_images__IMCNNL2TUNE_50.png used on input line 489.
 (pdftex.def)             Requested size: 71.13176pt x 71.1304pt.
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__predict_50.png,
- id=504, 190.21465pt x 173.73708pt>
+ id=422, 190.21465pt x 173.73708pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__predict_50
 .png Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__predict_50.
 png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__predict_50.png used on input line 456.
+_images__predict_50.png used on input line 489.
 (pdftex.def)             Requested size: 71.13293pt x 71.13191pt.
 
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 460--460
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 493--493
 []|[]|  
  []
 
 
-Overfull \vbox (22.52304pt too high) detected at line 460
+Overfull \vbox (22.52304pt too high) detected at line 493
  []
 
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zoom_50.png, id
-=505, 190.21465pt x 211.0284pt>
+=423, 190.21465pt x 211.0284pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zoom_50.pn
 g Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zoom_50.png
 >
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__zoom_50.png used on input line 462.
+_images__zoom_50.png used on input line 495.
 (pdftex.def)             Requested size: 71.13293pt x 71.13045pt.
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zeroPadding_zoo
-m_50.png, id=506, 190.21465pt x 211.0284pt>
+m_50.png, id=424, 190.21465pt x 211.0284pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zeroPaddin
 g_zoom_50.png Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zeroPadding
 _zoom_50.png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__zeroPadding_zoom_50.png used on input line 463.
+_images__zeroPadding_zoom_50.png used on input line 496.
 (pdftex.def)             Requested size: 71.13293pt x 71.13045pt.
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_zoom_50.png,
- id=507, 190.21465pt x 211.0284pt>
+ id=425, 190.21465pt x 211.0284pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_zoom_50
 .png Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_zoom_50.
 png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__CS_zoom_50.png used on input line 464.
+_images__CS_zoom_50.png used on input line 497.
 (pdftex.def)             Requested size: 71.13293pt x 71.13045pt.
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__IMCNNL2TUNE_zoo
-m_50.png, id=508, 158.41583pt x 175.76064pt>
+m_50.png, id=426, 158.41583pt x 175.76064pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__IMCNNL2TUN
 E_zoom_50.png Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__IMCNNL2TUNE
 _zoom_50.png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__IMCNNL2TUNE_zoom_50.png used on input line 464.
+_images__IMCNNL2TUNE_zoom_50.png used on input line 497.
 (pdftex.def)             Requested size: 71.13176pt x 71.1317pt.
 
 <include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__predict_zoom_50
-.png, id=509, 190.21465pt x 211.0284pt>
+.png, id=427, 190.21465pt x 211.0284pt>
 File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__predict_zo
 om_50.png Graphic file (type png)
 
 <use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__predict_zoo
 m_50.png>
 Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_images__predict_zoom_50.png used on input line 464.
+_images__predict_zoom_50.png used on input line 497.
 (pdftex.def)             Requested size: 71.13293pt x 71.13045pt.
-
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 468--468
-[]|[]|  
- []
-
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__50.png, id=510,
- 190.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__50.png Gra
-phic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__50.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_brains__50.png used on input line 470.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__zeroPadding_50.
-png, id=511, 190.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__zeroPaddin
-g_50.png Graphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__zeroPadding
-_50.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_brains__zeroPadding_50.png used on input line 471.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__CS_50.png, id=5
-12, 190.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__CS_50.png 
-Graphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__CS_50.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_brains__CS_50.png used on input line 471.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__IMCNNL2TUNE_50.
-png, id=513, 158.41583pt x 174.02615pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__IMCNNL2TUN
-E_50.png Graphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__IMCNNL2TUNE
-_50.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_brains__IMCNNL2TUNE_50.png used on input line 471.
-(pdftex.def)             Requested size: 71.13176pt x 71.13077pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__predict_50.png,
- id=514, 190.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__predict_50
-.png Graphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__predict_50.
-png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_brains__predict_50.png used on input line 471.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-Overfull \hbox (5.64223pt too wide) in paragraph at lines 475--475
-[]|[]|  
- []
-
-
-Overfull \vbox (29.87943pt too high) detected at line 475
- []
-
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__50.png, id=515, 1
-90.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__50.png Graph
-ic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__50.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_segs__50.png used on input line 477.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__zeroPadding_50.pn
-g, id=516, 190.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__zeroPadding_
-50.png Graphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__zeroPadding_5
-0.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_segs__zeroPadding_50.png used on input line 478.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__CS_50.png, id=517
-, 190.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__CS_50.png Gr
-aphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__CS_50.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_segs__CS_50.png used on input line 478.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__IMCNNL2TUNE_50.pn
-g, id=518, 158.41583pt x 174.02615pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__IMCNNL2TUNE_
-50.png Graphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__IMCNNL2TUNE_5
-0.png>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_segs__IMCNNL2TUNE_50.png used on input line 478.
-(pdftex.def)             Requested size: 71.13188pt x 78.14108pt.
-
-<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__predict_50.png, i
-d=519, 190.21465pt x 209.00484pt>
-File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__predict_50.p
-ng Graphic file (type png)
-
-<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__predict_50.pn
-g>
-Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
-_segs__predict_50.png used on input line 478.
-(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
-
-Overfull \hbox (29.40251pt too wide) in paragraph at lines 451--482
- []|  []
- []
-
-[16]
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 494--494
-[]|[]|  
- []
-
-
-Overfull \vbox (44.64403pt too high) detected at line 494
- []
-
-
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png, id=527, 136
-.15668pt x 136.15668pt>
-File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png Graphic
- file (type png)
-
-<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png>
-Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__35.png used on input line 496.
-(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
-
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_35.png,
- id=528, 136.15668pt x 136.15668pt>
-File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_35
-.png Graphic file (type png)
-
-<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_35.
-png>
-Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__zeroPadding_35.png used on input line 497.
-(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
-
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_35.png, id=529, 
-136.15668pt x 136.15668pt>
-File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_35.png Grap
-hic file (type png)
-
-<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_35.png>
-Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__CS_35.png used on input line 497.
-(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
-
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_35.png,
- id=530, 136.15668pt x 136.15668pt>
-File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_35
-.png Graphic file (type png)
-
-<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_35.
-png>
-Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__IMCNNL2TUNE_35.png used on input line 497.
-(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
-
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_35.png, id=
-531, 136.15668pt x 136.15668pt>
-File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_35.png
- Graphic file (type png)
-
-<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_35.png>
-Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__predict_35.png used on input line 497.
-(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
 
 Overfull \hbox (4.08705pt too wide) in paragraph at lines 501--501
 []|[]|  
  []
 
 
-Overfull \vbox (22.52304pt too high) detected at line 501
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__50.png, id=428,
+ 190.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__50.png Gra
+phic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__50.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_brains__50.png used on input line 503.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__zeroPadding_50.
+png, id=429, 190.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__zeroPaddin
+g_50.png Graphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__zeroPadding
+_50.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_brains__zeroPadding_50.png used on input line 504.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__CS_50.png, id=4
+30, 190.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__CS_50.png 
+Graphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__CS_50.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_brains__CS_50.png used on input line 504.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__IMCNNL2TUNE_50.
+png, id=431, 158.41583pt x 174.02615pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__IMCNNL2TUN
+E_50.png Graphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__IMCNNL2TUNE
+_50.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_brains__IMCNNL2TUNE_50.png used on input line 504.
+(pdftex.def)             Requested size: 71.13176pt x 71.13077pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__predict_50.png,
+ id=432, 190.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__predict_50
+.png Graphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_brains__predict_50.
+png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_brains__predict_50.png used on input line 504.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+Overfull \hbox (5.64223pt too wide) in paragraph at lines 508--508
+[]|[]|  
  []
 
 
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zoom_35.png, id=532
+Overfull \vbox (29.87943pt too high) detected at line 508
+ []
+
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__50.png, id=433, 1
+90.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__50.png Graph
+ic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__50.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_segs__50.png used on input line 510.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__zeroPadding_50.pn
+g, id=434, 190.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__zeroPadding_
+50.png Graphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__zeroPadding_5
+0.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_segs__zeroPadding_50.png used on input line 511.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__CS_50.png, id=435
+, 190.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__CS_50.png Gr
+aphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__CS_50.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_segs__CS_50.png used on input line 511.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__IMCNNL2TUNE_50.pn
+g, id=436, 158.41583pt x 174.02615pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__IMCNNL2TUNE_
+50.png Graphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__IMCNNL2TUNE_5
+0.png>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_segs__IMCNNL2TUNE_50.png used on input line 511.
+(pdftex.def)             Requested size: 71.13188pt x 78.14108pt.
+
+<include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__predict_50.png, i
+d=437, 190.21465pt x 209.00484pt>
+File: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__predict_50.p
+ng Graphic file (type png)
+
+<use include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_segs__predict_50.pn
+g>
+Package pdftex.def Info: include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1
+_segs__predict_50.png used on input line 511.
+(pdftex.def)             Requested size: 71.13293pt x 71.13086pt.
+
+Overfull \hbox (29.40251pt too wide) in paragraph at lines 484--515
+ []|  []
+ []
+
+[17]
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 527--527
+[]|[]|  
+ []
+
+
+Overfull \vbox (44.64403pt too high) detected at line 527
+ []
+
+
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png, id=443, 136
+.15668pt x 136.15668pt>
+File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png Graphic
+ file (type png)
+
+<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png>
+Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
+ges__35.png used on input line 529.
+(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
+
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_35.png,
+ id=444, 136.15668pt x 136.15668pt>
+File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_35
+.png Graphic file (type png)
+
+<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_35.
+png>
+Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
+ges__zeroPadding_35.png used on input line 530.
+(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
+
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_35.png, id=445, 
+136.15668pt x 136.15668pt>
+File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_35.png Grap
+hic file (type png)
+
+<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_35.png>
+Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
+ges__CS_35.png used on input line 530.
+(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
+
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_35.png,
+ id=446, 136.15668pt x 136.15668pt>
+File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_35
+.png Graphic file (type png)
+
+<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_35.
+png>
+Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
+ges__IMCNNL2TUNE_35.png used on input line 530.
+(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
+
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_35.png, id=
+447, 136.15668pt x 136.15668pt>
+File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_35.png
+ Graphic file (type png)
+
+<use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_35.png>
+Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
+ges__predict_35.png used on input line 530.
+(pdftex.def)             Requested size: 71.13013pt x 71.13013pt.
+
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 534--534
+[]|[]|  
+ []
+
+
+Overfull \vbox (22.52304pt too high) detected at line 534
+ []
+
+
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zoom_35.png, id=448
 , 136.15668pt x 114.1866pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zoom_35.png Gr
 aphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zoom_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__zoom_35.png used on input line 503.
+ges__zoom_35.png used on input line 536.
 (pdftex.def)             Requested size: 71.13013pt x 71.1347pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_zoom_35
-.png, id=533, 136.15668pt x 114.1866pt>
+.png, id=449, 136.15668pt x 114.1866pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_zo
 om_35.png Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_zoo
 m_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__zeroPadding_zoom_35.png used on input line 504.
+ges__zeroPadding_zoom_35.png used on input line 537.
 (pdftex.def)             Requested size: 71.13013pt x 71.1347pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_zoom_35.png, id=
-534, 136.15668pt x 114.1866pt>
+450, 136.15668pt x 114.1866pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_zoom_35.png
  Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_zoom_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__CS_zoom_35.png used on input line 505.
+ges__CS_zoom_35.png used on input line 538.
 (pdftex.def)             Requested size: 71.13013pt x 71.1347pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_zoom_35
-.png, id=535, 136.15668pt x 114.1866pt>
+.png, id=451, 136.15668pt x 114.1866pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_zo
 om_35.png Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_zoo
 m_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__IMCNNL2TUNE_zoom_35.png used on input line 505.
+ges__IMCNNL2TUNE_zoom_35.png used on input line 538.
 (pdftex.def)             Requested size: 71.13013pt x 71.1347pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_zoom_35.png
-, id=536, 136.15668pt x 114.1866pt>
+, id=452, 136.15668pt x 114.1866pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_zoom_3
 5.png Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__predict_zoom_35
 .png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_ima
-ges__predict_zoom_35.png used on input line 505.
+ges__predict_zoom_35.png used on input line 538.
 (pdftex.def)             Requested size: 71.13013pt x 71.1347pt.
 
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 509--509
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 542--542
 []|[]|  
  []
 
 
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__35.png, id=537, 136
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__35.png, id=453, 136
 .15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__35.png Graphic
  file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_bra
-ins__35.png used on input line 511.
+ins__35.png used on input line 544.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__zeroPadding_35.png,
- id=538, 136.15668pt x 120.83543pt>
+ id=454, 136.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__zeroPadding_35
 .png Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__zeroPadding_35.
 png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_bra
-ins__zeroPadding_35.png used on input line 512.
+ins__zeroPadding_35.png used on input line 545.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__CS_35.png, id=539, 
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__CS_35.png, id=455, 
 136.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__CS_35.png Grap
 hic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__CS_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_bra
-ins__CS_35.png used on input line 512.
+ins__CS_35.png used on input line 545.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__IMCNNL2TUNE_35.png,
- id=540, 136.15668pt x 120.83543pt>
+ id=456, 136.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__IMCNNL2TUNE_35
 .png Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__IMCNNL2TUNE_35.
 png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_bra
-ins__IMCNNL2TUNE_35.png used on input line 512.
+ins__IMCNNL2TUNE_35.png used on input line 545.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__predict_35.png, id=
-541, 136.15668pt x 120.83543pt>
+457, 136.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__predict_35.png
  Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__predict_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_bra
-ins__predict_35.png used on input line 512.
+ins__predict_35.png used on input line 545.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
-Overfull \hbox (5.64223pt too wide) in paragraph at lines 516--516
+Overfull \hbox (5.64223pt too wide) in paragraph at lines 549--549
 []|[]|  
  []
 
 
-Overfull \vbox (29.87943pt too high) detected at line 516
+Overfull \vbox (29.87943pt too high) detected at line 549
  []
 
 
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__35.png, id=542, 136.1
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__35.png, id=458, 136.1
 5668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__35.png Graphic f
 ile (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_seg
-s__35.png used on input line 518.
+s__35.png used on input line 551.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__zeroPadding_35.png, i
-d=543, 136.15668pt x 120.83543pt>
+d=459, 136.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__zeroPadding_35.p
 ng Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__zeroPadding_35.pn
 g>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_seg
-s__zeroPadding_35.png used on input line 519.
+s__zeroPadding_35.png used on input line 552.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__CS_35.png, id=544, 13
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__CS_35.png, id=460, 13
 6.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__CS_35.png Graphi
 c file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__CS_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_seg
-s__CS_35.png used on input line 519.
+s__CS_35.png used on input line 552.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__IMCNNL2TUNE_35.png, i
-d=545, 136.15668pt x 120.83543pt>
+d=461, 136.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__IMCNNL2TUNE_35.p
 ng Graphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__IMCNNL2TUNE_35.pn
 g>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_seg
-s__IMCNNL2TUNE_35.png used on input line 519.
+s__IMCNNL2TUNE_35.png used on input line 552.
 (pdftex.def)             Requested size: 71.13188pt x 63.1261pt.
 
-<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__predict_35.png, id=54
-6, 136.15668pt x 120.83543pt>
+<include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__predict_35.png, id=46
+2, 136.15668pt x 120.83543pt>
 File: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__predict_35.png G
 raphic file (type png)
 
 <use include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__predict_35.png>
 Package pdftex.def Info: include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_seg
-s__predict_35.png used on input line 519.
+s__predict_35.png used on input line 552.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
-Overfull \hbox (29.39128pt too wide) in paragraph at lines 492--523
+Overfull \hbox (29.39128pt too wide) in paragraph at lines 525--556
  []|  []
  []
 
-[17 <./include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__50.png> <
+[18 <./include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__50.png> <
 ./include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__zeroPadding_50
 .png> <./include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__CS_50.p
 ng> <./include/grp2/factor6/022-Guys-0701-T1/022-Guys-0701-T1_images__IMCNNL2TU
@@ -1448,257 +1616,257 @@ or6/022-Guys-0701-T1/022-Guys-0701-T1_segs__50.png> <./include/grp2/factor6/022
 6/022-Guys-0701-T1/022-Guys-0701-T1_segs__CS_50.png> <./include/grp2/factor6/02
 2-Guys-0701-T1/022-Guys-0701-T1_segs__IMCNNL2TUNE_50.png> <./include/grp2/facto
 r6/022-Guys-0701-T1/022-Guys-0701-T1_segs__predict_50.png>]
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 535--535
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 568--568
 []|[]|  
  []
 
 
-Overfull \vbox (44.64403pt too high) detected at line 535
+Overfull \vbox (44.64403pt too high) detected at line 568
  []
 
 
-<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__78.png, id=571,
+<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__78.png, id=487,
  136.15668pt x 130.37508pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__78.png Gra
 phic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__78.png used on input line 537.
+_images__78.png used on input line 570.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPadding_78.
-png, id=572, 136.15668pt x 130.37508pt>
+png, id=488, 136.15668pt x 130.37508pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPaddin
 g_78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPadding
 _78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__zeroPadding_78.png used on input line 538.
+_images__zeroPadding_78.png used on input line 571.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
-<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_78.png, id=5
-73, 136.15668pt x 130.37508pt>
+<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_78.png, id=4
+89, 136.15668pt x 130.37508pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_78.png 
 Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__CS_78.png used on input line 538.
+_images__CS_78.png used on input line 571.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TUNE_78.
-png, id=574, 136.15668pt x 130.37508pt>
+png, id=490, 136.15668pt x 130.37508pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TUN
 E_78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TUNE
 _78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__IMCNNL2TUNE_78.png used on input line 538.
+_images__IMCNNL2TUNE_78.png used on input line 571.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__predict_78.png,
- id=575, 136.15668pt x 130.37508pt>
+ id=491, 136.15668pt x 130.37508pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__predict_78
 .png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__predict_78.
 png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__predict_78.png used on input line 538.
+_images__predict_78.png used on input line 571.
 (pdftex.def)             Requested size: 71.13013pt x 71.13556pt.
 
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 542--542
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 575--575
 []|[]|  
  []
 
 
-Overfull \vbox (22.52304pt too high) detected at line 542
+Overfull \vbox (22.52304pt too high) detected at line 575
  []
 
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zoom_78.png, id
-=576, 136.15668pt x 165.93192pt>
+=492, 136.15668pt x 165.93192pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zoom_78.pn
 g Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zoom_78.png
 >
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__zoom_78.png used on input line 544.
+_images__zoom_78.png used on input line 577.
 (pdftex.def)             Requested size: 71.13013pt x 71.13158pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPadding_zoo
-m_78.png, id=577, 136.15668pt x 165.93192pt>
+m_78.png, id=493, 136.15668pt x 165.93192pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPaddin
 g_zoom_78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPadding
 _zoom_78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__zeroPadding_zoom_78.png used on input line 545.
+_images__zeroPadding_zoom_78.png used on input line 578.
 (pdftex.def)             Requested size: 71.13013pt x 71.13158pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_zoom_78.png,
- id=578, 136.15668pt x 165.93192pt>
+ id=494, 136.15668pt x 165.93192pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_zoom_78
 .png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_zoom_78.
 png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__CS_zoom_78.png used on input line 546.
+_images__CS_zoom_78.png used on input line 579.
 (pdftex.def)             Requested size: 71.13013pt x 71.13158pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TUNE_zoo
-m_78.png, id=579, 136.15668pt x 165.93192pt>
+m_78.png, id=495, 136.15668pt x 165.93192pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TUN
 E_zoom_78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TUNE
 _zoom_78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__IMCNNL2TUNE_zoom_78.png used on input line 546.
+_images__IMCNNL2TUNE_zoom_78.png used on input line 579.
 (pdftex.def)             Requested size: 71.13013pt x 71.13158pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__predict_zoom_78
-.png, id=580, 136.15668pt x 165.93192pt>
+.png, id=496, 136.15668pt x 165.93192pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__predict_zo
 om_78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__predict_zoo
 m_78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_images__predict_zoom_78.png used on input line 546.
+_images__predict_zoom_78.png used on input line 579.
 (pdftex.def)             Requested size: 71.13013pt x 71.13158pt.
 
-Overfull \hbox (4.08705pt too wide) in paragraph at lines 550--550
+Overfull \hbox (4.08705pt too wide) in paragraph at lines 583--583
 []|[]|  
  []
 
 
-<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__78.png, id=581,
+<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__78.png, id=497,
  136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__78.png Gra
 phic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_brains__78.png used on input line 552.
+_brains__78.png used on input line 585.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__zeroPadding_78.
-png, id=582, 136.15668pt x 129.21877pt>
+png, id=498, 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__zeroPaddin
 g_78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__zeroPadding
 _78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_brains__zeroPadding_78.png used on input line 553.
+_brains__zeroPadding_78.png used on input line 586.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
-<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__CS_78.png, id=5
-83, 136.15668pt x 129.21877pt>
+<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__CS_78.png, id=4
+99, 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__CS_78.png 
 Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__CS_78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_brains__CS_78.png used on input line 553.
+_brains__CS_78.png used on input line 586.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__IMCNNL2TUNE_78.
-png, id=584, 136.15668pt x 129.21877pt>
+png, id=500, 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__IMCNNL2TUN
 E_78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__IMCNNL2TUNE
 _78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_brains__IMCNNL2TUNE_78.png used on input line 553.
+_brains__IMCNNL2TUNE_78.png used on input line 586.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__predict_78.png,
- id=585, 136.15668pt x 129.21877pt>
+ id=501, 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__predict_78
 .png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_brains__predict_78.
 png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_brains__predict_78.png used on input line 553.
+_brains__predict_78.png used on input line 586.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
-Overfull \hbox (5.64223pt too wide) in paragraph at lines 557--557
+Overfull \hbox (5.64223pt too wide) in paragraph at lines 590--590
 []|[]|  
  []
 
 
-Overfull \vbox (29.87943pt too high) detected at line 557
+Overfull \vbox (29.87943pt too high) detected at line 590
  []
 
 
-<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__78.png, id=586, 1
+<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__78.png, id=502, 1
 36.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__78.png Graph
 ic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_segs__78.png used on input line 559.
+_segs__78.png used on input line 592.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__zeroPadding_78.pn
-g, id=587, 136.15668pt x 129.21877pt>
+g, id=503, 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__zeroPadding_
 78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__zeroPadding_7
 8.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_segs__zeroPadding_78.png used on input line 560.
+_segs__zeroPadding_78.png used on input line 593.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
-<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__CS_78.png, id=588
+<include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__CS_78.png, id=504
 , 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__CS_78.png Gr
 aphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__CS_78.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_segs__CS_78.png used on input line 560.
+_segs__CS_78.png used on input line 593.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__IMCNNL2TUNE_78.pn
-g, id=589, 136.15668pt x 129.21877pt>
+g, id=505, 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__IMCNNL2TUNE_
 78.png Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__IMCNNL2TUNE_7
 8.png>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_segs__IMCNNL2TUNE_78.png used on input line 560.
+_segs__IMCNNL2TUNE_78.png used on input line 593.
 (pdftex.def)             Requested size: 71.13188pt x 67.50566pt.
 
 <include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__predict_78.png, i
-d=590, 136.15668pt x 129.21877pt>
+d=506, 136.15668pt x 129.21877pt>
 File: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__predict_78.p
 ng Graphic file (type png)
 
 <use include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_segs__predict_78.pn
 g>
 Package pdftex.def Info: include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1
-_segs__predict_78.png used on input line 560.
+_segs__predict_78.png used on input line 593.
 (pdftex.def)             Requested size: 71.13013pt x 71.1356pt.
 
-Overfull \hbox (29.39128pt too wide) in paragraph at lines 533--564
+Overfull \hbox (29.39128pt too wide) in paragraph at lines 566--597
  []|  []
  []
 
-[18 <./include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png> <./in
+[19 <./include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__35.png> <./in
 clude/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__zeroPadding_35.png> <.
 /include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__CS_35.png> <./inclu
 de/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_images__IMCNNL2TUNE_35.png> <./in
@@ -1717,272 +1885,281 @@ include/grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_brains__IMCNNL2TUNE_35.png>
 rp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__zeroPadding_35.png> <./include/
 grp2/factor4/012-HH-1211-T1/012-HH-1211-T1_segs__CS_35.png> <./include/grp2/fac
 tor4/012-HH-1211-T1/012-HH-1211-T1_segs__IMCNNL2TUNE_35.png> <./include/grp2/fa
-ctor4/012-HH-1211-T1/012-HH-1211-T1_segs__predict_35.png>] [19 <./include/grp2/
-factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__78.png> <./include/grp2/facto
-r2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPadding_78.png> <./include/grp
-2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_78.png> <./include/grp2/
-factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TUNE_78.png> <./includ
-e/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__predict_78.png> <./inc
-lude/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zoom_78.png> <./inc
-lude/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPadding_zoom_78
-.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_zoom
-_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCN
-NL2TUNE_zoom_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_
-images__predict_zoom_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-
-0702-T1_brains__78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-
-T1_brains__zeroPadding_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guy
-s-0702-T1_brains__CS_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-
-0702-T1_brains__IMCNNL2TUNE_78.png> <./include/grp2/factor2/019-Guys-0702-T1/01
-9-Guys-0702-T1_brains__predict_78.png> <./include/grp2/factor2/019-Guys-0702-T1
-/019-Guys-0702-T1_segs__78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Gu
-ys-0702-T1_segs__zeroPadding_78.png> <./include/grp2/factor2/019-Guys-0702-T1/0
-19-Guys-0702-T1_segs__CS_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-G
-uys-0702-T1_segs__IMCNNL2TUNE_78.png> <./include/grp2/factor2/019-Guys-0702-T1/
-019-Guys-0702-T1_segs__predict_78.png>]
-Overfull \vbox (44.64403pt too high) detected at line 605
+ctor4/012-HH-1211-T1/012-HH-1211-T1_segs__predict_35.png>]
+
+LaTeX Warning: Citation `glorot2010understanding' on page 20 undefined on input
+ line 607.
+
+[20 <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__78.png> <
+./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__zeroPadding_78
+.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__CS_78.p
+ng> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__IMCNNL2TU
+NE_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images__pr
+edict_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images_
+_zoom_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-0702-T1_images_
+_zeroPadding_zoom_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-070
+2-T1_images__CS_zoom_78.png> <./include/grp2/factor2/019-Guys-0702-T1/019-Guys-
+0702-T1_images__IMCNNL2TUNE_zoom_78.png> <./include/grp2/factor2/019-Guys-0702-
+T1/019-Guys-0702-T1_images__predict_zoom_78.png> <./include/grp2/factor2/019-Gu
+ys-0702-T1/019-Guys-0702-T1_brains__78.png> <./include/grp2/factor2/019-Guys-07
+02-T1/019-Guys-0702-T1_brains__zeroPadding_78.png> <./include/grp2/factor2/019-
+Guys-0702-T1/019-Guys-0702-T1_brains__CS_78.png> <./include/grp2/factor2/019-Gu
+ys-0702-T1/019-Guys-0702-T1_brains__IMCNNL2TUNE_78.png> <./include/grp2/factor2
+/019-Guys-0702-T1/019-Guys-0702-T1_brains__predict_78.png> <./include/grp2/fact
+or2/019-Guys-0702-T1/019-Guys-0702-T1_segs__78.png> <./include/grp2/factor2/019
+-Guys-0702-T1/019-Guys-0702-T1_segs__zeroPadding_78.png> <./include/grp2/factor
+2/019-Guys-0702-T1/019-Guys-0702-T1_segs__CS_78.png> <./include/grp2/factor2/01
+9-Guys-0702-T1/019-Guys-0702-T1_segs__IMCNNL2TUNE_78.png> <./include/grp2/facto
+r2/019-Guys-0702-T1/019-Guys-0702-T1_segs__predict_78.png>]
+
+LaTeX Warning: Citation `lustig2007sparse' on page 21 undefined on input line 6
+09.
+
+
+Overfull \vbox (44.64403pt too high) detected at line 638
  []
 
-<include/grp1/res1_org.png, id=644, 233.37187pt x 233.37187pt>
+<include/grp1/res1_org.png, id=557, 233.37187pt x 233.37187pt>
 File: include/grp1/res1_org.png Graphic file (type png)
 
 <use include/grp1/res1_org.png>
-Package pdftex.def Info: include/grp1/res1_org.png used on input line 605.
+Package pdftex.def Info: include/grp1/res1_org.png used on input line 638.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-<include/grp1/res1_zero.png, id=645, 233.37187pt x 233.37187pt>
+<include/grp1/res1_zero.png, id=558, 233.37187pt x 233.37187pt>
 File: include/grp1/res1_zero.png Graphic file (type png)
 
 <use include/grp1/res1_zero.png>
-Package pdftex.def Info: include/grp1/res1_zero.png used on input line 605.
+Package pdftex.def Info: include/grp1/res1_zero.png used on input line 638.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-<include/grp1/res1_cs_red.png, id=646, 311.1625pt x 311.1625pt>
+<include/grp1/res1_cs_red.png, id=559, 311.1625pt x 311.1625pt>
 File: include/grp1/res1_cs_red.png Graphic file (type png)
 
 <use include/grp1/res1_cs_red.png>
-Package pdftex.def Info: include/grp1/res1_cs_red.png used on input line 605.
+Package pdftex.def Info: include/grp1/res1_cs_red.png used on input line 638.
 (pdftex.def)             Requested size: 71.13188pt x 71.12906pt.
 
-<include/grp1/res1_L2_red.png, id=647, 311.1625pt x 311.1625pt>
+<include/grp1/res1_L2_red.png, id=560, 311.1625pt x 311.1625pt>
 File: include/grp1/res1_L2_red.png Graphic file (type png)
 
 <use include/grp1/res1_L2_red.png>
-Package pdftex.def Info: include/grp1/res1_L2_red.png used on input line 605.
+Package pdftex.def Info: include/grp1/res1_L2_red.png used on input line 638.
 (pdftex.def)             Requested size: 71.13188pt x 71.12906pt.
 
-<include/grp1/res1_our.png, id=648, 233.37187pt x 233.37187pt>
+<include/grp1/res1_our.png, id=561, 233.37187pt x 233.37187pt>
 File: include/grp1/res1_our.png Graphic file (type png)
 
 <use include/grp1/res1_our.png>
-Package pdftex.def Info: include/grp1/res1_our.png used on input line 605.
+Package pdftex.def Info: include/grp1/res1_our.png used on input line 638.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-Overfull \vbox (22.52304pt too high) detected at line 608
+Overfull \vbox (22.52304pt too high) detected at line 641
  []
 
-<include/grp1/res1_org_zoom.png, id=649, 72.9927pt x 72.9927pt>
+<include/grp1/res1_org_zoom.png, id=562, 72.9927pt x 72.9927pt>
 File: include/grp1/res1_org_zoom.png Graphic file (type png)
 
 <use include/grp1/res1_org_zoom.png>
-Package pdftex.def Info: include/grp1/res1_org_zoom.png used on input line 608.
+Package pdftex.def Info: include/grp1/res1_org_zoom.png used on input line 641.
 
 (pdftex.def)             Requested size: 71.13188pt x 71.13138pt.
 
-<include/grp1/res1_zero_zoom.png, id=650, 72.27pt x 72.27pt>
+<include/grp1/res1_zero_zoom.png, id=563, 72.27pt x 72.27pt>
 File: include/grp1/res1_zero_zoom.png Graphic file (type png)
 
 <use include/grp1/res1_zero_zoom.png>
-Package pdftex.def Info: include/grp1/res1_zero_zoom.png used on input line 608
+Package pdftex.def Info: include/grp1/res1_zero_zoom.png used on input line 641
 .
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-<include/grp1/res1_cs_zoom.png, id=651, 101.37875pt x 101.37875pt>
+<include/grp1/res1_cs_zoom.png, id=564, 101.37875pt x 101.37875pt>
 File: include/grp1/res1_cs_zoom.png Graphic file (type png)
 
 <use include/grp1/res1_cs_zoom.png>
-Package pdftex.def Info: include/grp1/res1_cs_zoom.png used on input line 608.
+Package pdftex.def Info: include/grp1/res1_cs_zoom.png used on input line 641.
 (pdftex.def)             Requested size: 71.13188pt x 71.13324pt.
 
-<include/grp1/res1_L2_zoom.png, id=652, 101.37875pt x 101.37875pt>
+<include/grp1/res1_L2_zoom.png, id=565, 101.37875pt x 101.37875pt>
 File: include/grp1/res1_L2_zoom.png Graphic file (type png)
 
 <use include/grp1/res1_L2_zoom.png>
-Package pdftex.def Info: include/grp1/res1_L2_zoom.png used on input line 608.
+Package pdftex.def Info: include/grp1/res1_L2_zoom.png used on input line 641.
 (pdftex.def)             Requested size: 71.13188pt x 71.13324pt.
 
-<include/grp1/res1_our_zoom.png, id=653, 72.27pt x 72.27pt>
+<include/grp1/res1_our_zoom.png, id=566, 72.27pt x 72.27pt>
 File: include/grp1/res1_our_zoom.png Graphic file (type png)
 
 <use include/grp1/res1_our_zoom.png>
-Package pdftex.def Info: include/grp1/res1_our_zoom.png used on input line 608.
+Package pdftex.def Info: include/grp1/res1_our_zoom.png used on input line 641.
 
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-Overfull \vbox (44.64403pt too high) detected at line 611
+Overfull \vbox (44.64403pt too high) detected at line 644
  []
 
-<include/grp1/res7_org.png, id=654, 233.37187pt x 233.37187pt>
+<include/grp1/res7_org.png, id=567, 233.37187pt x 233.37187pt>
 File: include/grp1/res7_org.png Graphic file (type png)
 
 <use include/grp1/res7_org.png>
-Package pdftex.def Info: include/grp1/res7_org.png used on input line 611.
+Package pdftex.def Info: include/grp1/res7_org.png used on input line 644.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-<include/grp1/res7_zero.png, id=655, 233.37187pt x 233.37187pt>
+<include/grp1/res7_zero.png, id=568, 233.37187pt x 233.37187pt>
 File: include/grp1/res7_zero.png Graphic file (type png)
 
 <use include/grp1/res7_zero.png>
-Package pdftex.def Info: include/grp1/res7_zero.png used on input line 611.
+Package pdftex.def Info: include/grp1/res7_zero.png used on input line 644.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-<include/grp1/res7_cs_red.png, id=656, 311.1625pt x 311.1625pt>
+<include/grp1/res7_cs_red.png, id=569, 311.1625pt x 311.1625pt>
 File: include/grp1/res7_cs_red.png Graphic file (type png)
 
 <use include/grp1/res7_cs_red.png>
-Package pdftex.def Info: include/grp1/res7_cs_red.png used on input line 611.
+Package pdftex.def Info: include/grp1/res7_cs_red.png used on input line 644.
 (pdftex.def)             Requested size: 71.13188pt x 71.12906pt.
 
-<include/grp1/res7_L2_red.png, id=657, 311.1625pt x 311.1625pt>
+<include/grp1/res7_L2_red.png, id=570, 311.1625pt x 311.1625pt>
 File: include/grp1/res7_L2_red.png Graphic file (type png)
 
 <use include/grp1/res7_L2_red.png>
-Package pdftex.def Info: include/grp1/res7_L2_red.png used on input line 611.
+Package pdftex.def Info: include/grp1/res7_L2_red.png used on input line 644.
 (pdftex.def)             Requested size: 71.13188pt x 71.12906pt.
 
-<include/grp1/res7_our.png, id=658, 233.37187pt x 233.37187pt>
+<include/grp1/res7_our.png, id=571, 233.37187pt x 233.37187pt>
 File: include/grp1/res7_our.png Graphic file (type png)
 
 <use include/grp1/res7_our.png>
-Package pdftex.def Info: include/grp1/res7_our.png used on input line 611.
+Package pdftex.def Info: include/grp1/res7_our.png used on input line 644.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-Overfull \vbox (22.52304pt too high) detected at line 614
+Overfull \vbox (22.52304pt too high) detected at line 647
  []
 
-<include/grp1/res7_org_zoom.png, id=659, 72.27pt x 72.27pt>
+<include/grp1/res7_org_zoom.png, id=572, 72.27pt x 72.27pt>
 File: include/grp1/res7_org_zoom.png Graphic file (type png)
 
 <use include/grp1/res7_org_zoom.png>
-Package pdftex.def Info: include/grp1/res7_org_zoom.png used on input line 614.
+Package pdftex.def Info: include/grp1/res7_org_zoom.png used on input line 647.
 
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-<include/grp1/res7_zero_zoom.png, id=660, 72.27pt x 72.27pt>
+<include/grp1/res7_zero_zoom.png, id=573, 72.27pt x 72.27pt>
 File: include/grp1/res7_zero_zoom.png Graphic file (type png)
 
 <use include/grp1/res7_zero_zoom.png>
-Package pdftex.def Info: include/grp1/res7_zero_zoom.png used on input line 614
+Package pdftex.def Info: include/grp1/res7_zero_zoom.png used on input line 647
 .
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-<include/grp1/res7_cs_zoom.png, id=661, 101.37875pt x 101.37875pt>
+<include/grp1/res7_cs_zoom.png, id=574, 101.37875pt x 101.37875pt>
 File: include/grp1/res7_cs_zoom.png Graphic file (type png)
 
 <use include/grp1/res7_cs_zoom.png>
-Package pdftex.def Info: include/grp1/res7_cs_zoom.png used on input line 614.
+Package pdftex.def Info: include/grp1/res7_cs_zoom.png used on input line 647.
 (pdftex.def)             Requested size: 71.13188pt x 71.13324pt.
 
-<include/grp1/res7_L2_zoom.png, id=662, 101.37875pt x 101.37875pt>
+<include/grp1/res7_L2_zoom.png, id=575, 101.37875pt x 101.37875pt>
 File: include/grp1/res7_L2_zoom.png Graphic file (type png)
 
 <use include/grp1/res7_L2_zoom.png>
-Package pdftex.def Info: include/grp1/res7_L2_zoom.png used on input line 614.
+Package pdftex.def Info: include/grp1/res7_L2_zoom.png used on input line 647.
 (pdftex.def)             Requested size: 71.13188pt x 71.13324pt.
 
-<include/grp1/res7_our_zoom.png, id=663, 72.27pt x 72.27pt>
+<include/grp1/res7_our_zoom.png, id=576, 72.27pt x 72.27pt>
 File: include/grp1/res7_our_zoom.png Graphic file (type png)
 
 <use include/grp1/res7_our_zoom.png>
-Package pdftex.def Info: include/grp1/res7_our_zoom.png used on input line 614.
+Package pdftex.def Info: include/grp1/res7_our_zoom.png used on input line 647.
 
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-Overfull \vbox (44.64403pt too high) detected at line 617
+Overfull \vbox (44.64403pt too high) detected at line 650
  []
 
-<include/grp1/res11_org.png, id=664, 233.37187pt x 233.37187pt>
+<include/grp1/res11_org.png, id=577, 233.37187pt x 233.37187pt>
 File: include/grp1/res11_org.png Graphic file (type png)
 
 <use include/grp1/res11_org.png>
-Package pdftex.def Info: include/grp1/res11_org.png used on input line 617.
+Package pdftex.def Info: include/grp1/res11_org.png used on input line 650.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-<include/grp1/res11_zero.png, id=665, 233.37187pt x 233.37187pt>
+<include/grp1/res11_zero.png, id=578, 233.37187pt x 233.37187pt>
 File: include/grp1/res11_zero.png Graphic file (type png)
 
 <use include/grp1/res11_zero.png>
-Package pdftex.def Info: include/grp1/res11_zero.png used on input line 617.
+Package pdftex.def Info: include/grp1/res11_zero.png used on input line 650.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-<include/grp1/res11_cs_red.png, id=666, 311.1625pt x 311.1625pt>
+<include/grp1/res11_cs_red.png, id=579, 311.1625pt x 311.1625pt>
 File: include/grp1/res11_cs_red.png Graphic file (type png)
 
 <use include/grp1/res11_cs_red.png>
-Package pdftex.def Info: include/grp1/res11_cs_red.png used on input line 617.
+Package pdftex.def Info: include/grp1/res11_cs_red.png used on input line 650.
 (pdftex.def)             Requested size: 71.13188pt x 71.12906pt.
 
-<include/grp1/res11_L2_red.png, id=667, 311.1625pt x 311.1625pt>
+<include/grp1/res11_L2_red.png, id=580, 311.1625pt x 311.1625pt>
 File: include/grp1/res11_L2_red.png Graphic file (type png)
 
 <use include/grp1/res11_L2_red.png>
-Package pdftex.def Info: include/grp1/res11_L2_red.png used on input line 617.
+Package pdftex.def Info: include/grp1/res11_L2_red.png used on input line 650.
 (pdftex.def)             Requested size: 71.13188pt x 71.12906pt.
 
-<include/grp1/res11_our.png, id=668, 233.37187pt x 233.37187pt>
+<include/grp1/res11_our.png, id=581, 233.37187pt x 233.37187pt>
 File: include/grp1/res11_our.png Graphic file (type png)
 
 <use include/grp1/res11_our.png>
-Package pdftex.def Info: include/grp1/res11_our.png used on input line 617.
+Package pdftex.def Info: include/grp1/res11_our.png used on input line 650.
 (pdftex.def)             Requested size: 71.13188pt x 71.13023pt.
 
-Overfull \vbox (22.52304pt too high) detected at line 620
+Overfull \vbox (22.52304pt too high) detected at line 653
  []
 
-<include/grp1/res11_org_zoom.png, id=669, 72.27pt x 72.27pt>
+<include/grp1/res11_org_zoom.png, id=582, 72.27pt x 72.27pt>
 File: include/grp1/res11_org_zoom.png Graphic file (type png)
 
 <use include/grp1/res11_org_zoom.png>
-Package pdftex.def Info: include/grp1/res11_org_zoom.png used on input line 620
+Package pdftex.def Info: include/grp1/res11_org_zoom.png used on input line 653
 .
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-<include/grp1/res11_zero_zoom.png, id=670, 72.27pt x 72.27pt>
+<include/grp1/res11_zero_zoom.png, id=583, 72.27pt x 72.27pt>
 File: include/grp1/res11_zero_zoom.png Graphic file (type png)
 
 <use include/grp1/res11_zero_zoom.png>
-Package pdftex.def Info: include/grp1/res11_zero_zoom.png used on input line 62
-0.
+Package pdftex.def Info: include/grp1/res11_zero_zoom.png used on input line 65
+3.
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-<include/grp1/res11_cs_zoom.png, id=671, 101.37875pt x 101.37875pt>
+<include/grp1/res11_cs_zoom.png, id=584, 101.37875pt x 101.37875pt>
 File: include/grp1/res11_cs_zoom.png Graphic file (type png)
 
 <use include/grp1/res11_cs_zoom.png>
-Package pdftex.def Info: include/grp1/res11_cs_zoom.png used on input line 620.
+Package pdftex.def Info: include/grp1/res11_cs_zoom.png used on input line 653.
 
 (pdftex.def)             Requested size: 71.13188pt x 71.13324pt.
 
-<include/grp1/res11_L2_zoom.png, id=672, 101.37875pt x 101.37875pt>
+<include/grp1/res11_L2_zoom.png, id=585, 101.37875pt x 101.37875pt>
 File: include/grp1/res11_L2_zoom.png Graphic file (type png)
 
 <use include/grp1/res11_L2_zoom.png>
-Package pdftex.def Info: include/grp1/res11_L2_zoom.png used on input line 620.
+Package pdftex.def Info: include/grp1/res11_L2_zoom.png used on input line 653.
 
 (pdftex.def)             Requested size: 71.13188pt x 71.13324pt.
 
-<include/grp1/res11_our_zoom.png, id=673, 72.27pt x 72.27pt>
+<include/grp1/res11_our_zoom.png, id=586, 72.27pt x 72.27pt>
 File: include/grp1/res11_our_zoom.png Graphic file (type png)
 
 <use include/grp1/res11_our_zoom.png>
-Package pdftex.def Info: include/grp1/res11_our_zoom.png used on input line 620
+Package pdftex.def Info: include/grp1/res11_our_zoom.png used on input line 653
 .
 (pdftex.def)             Requested size: 71.13188pt x 71.13507pt.
 
-Overfull \hbox (33.66605pt too wide) in paragraph at lines 599--622
+Overfull \hbox (33.66605pt too wide) in paragraph at lines 632--655
 []|  []  
  []
 
-[20] [21 <./include/grp1/res1_org.png> <./include/grp1/res1_zero.png> <./includ
+[21] [22 <./include/grp1/res1_org.png> <./include/grp1/res1_zero.png> <./includ
 e/grp1/res1_cs_red.png (PNG copy)> <./include/grp1/res1_L2_red.png (PNG copy)> 
 <./include/grp1/res1_our.png> <./include/grp1/res1_org_zoom.png (PNG copy)> <./
 include/grp1/res1_zero_zoom.png> <./include/grp1/res1_cs_zoom.png> <./include/g
@@ -1997,137 +2174,141 @@ NG copy)> <./include/grp1/res11_our.png> <./include/grp1/res11_org_zoom.png> <.
 /include/grp1/res11_zero_zoom.png> <./include/grp1/res11_cs_zoom.png> <./includ
 e/grp1/res11_L2_zoom.png> <./include/grp1/res11_our_zoom.png>]
 Chapter 5.
-[22
+[23
 
-] (./thesis.bbl [23
+] (./thesis.bbl
 
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-] [24]) <HEB_ABSTRACT.pdf, id=719, 614.295pt x 794.97pt>
+) <HEB_ABSTRACT.pdf, id=626, 614.295pt x 794.97pt>
+File: HEB_ABSTRACT.pdf Graphic file (type pdf)
+ <use HEB_ABSTRACT.pdf>
+Package pdftex.def Info: HEB_ABSTRACT.pdf used on input line 683.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: HEB_ABSTRACT.pdf Graphic file (type pdf)
 
 <use HEB_ABSTRACT.pdf>
-Package pdftex.def Info: HEB_ABSTRACT.pdf used on input line 661.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: HEB_ABSTRACT.pdf Graphic file (type pdf)
- <use HEB_ABSTRACT.pdf>
-Package pdftex.def Info: HEB_ABSTRACT.pdf used on input line 661.
+Package pdftex.def Info: HEB_ABSTRACT.pdf used on input line 683.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<HEB_ABSTRACT.pdf, id=722, page=1, 614.295pt x 794.97pt>
+<HEB_ABSTRACT.pdf, id=629, page=1, 614.295pt x 794.97pt>
 File: HEB_ABSTRACT.pdf Graphic file (type pdf)
 
 <use HEB_ABSTRACT.pdf, page 1>
-Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 661.
+Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 683.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: HEB_ABSTRACT.pdf Graphic file (type pdf)
  <use HEB_ABSTRACT.pdf, page 1>
-Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 661.
+Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 683.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [25]
+ [24
+
+
+]
 File: HEB_ABSTRACT.pdf Graphic file (type pdf)
 
 <use HEB_ABSTRACT.pdf, page 1>
-Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 661.
+Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 683.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_ABSTRACT.pdf Graphic file (type pdf)
  <use HEB_ABSTRACT.pdf, page 1>
-Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 661.
+Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 683.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_ABSTRACT.pdf Graphic file (type pdf)
 
 <use HEB_ABSTRACT.pdf, page 1>
-Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 661.
+Package pdftex.def Info: HEB_ABSTRACT.pdf, page1 used on input line 683.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [26 <./HEB_ABSTRACT.pdf>]
-<HEB_TITLE_SIGN.pdf, id=738, 614.295pt x 794.97pt>
+ [25 <./HEB_ABSTRACT.pdf>]
+<HEB_TITLE_SIGN.pdf, id=646, 614.295pt x 794.97pt>
 File: HEB_TITLE_SIGN.pdf Graphic file (type pdf)
  <use HEB_TITLE_SIGN.pdf>
-Package pdftex.def Info: HEB_TITLE_SIGN.pdf used on input line 662.
+Package pdftex.def Info: HEB_TITLE_SIGN.pdf used on input line 684.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: HEB_TITLE_SIGN.pdf Graphic file (type pdf)
 
 <use HEB_TITLE_SIGN.pdf>
-Package pdftex.def Info: HEB_TITLE_SIGN.pdf used on input line 662.
+Package pdftex.def Info: HEB_TITLE_SIGN.pdf used on input line 684.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<HEB_TITLE_SIGN.pdf, id=741, page=1, 614.295pt x 794.97pt>
+<HEB_TITLE_SIGN.pdf, id=649, page=1, 614.295pt x 794.97pt>
 File: HEB_TITLE_SIGN.pdf Graphic file (type pdf)
 
 <use HEB_TITLE_SIGN.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 662.
+Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 684.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: HEB_TITLE_SIGN.pdf Graphic file (type pdf)
  <use HEB_TITLE_SIGN.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 662.
+Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 684.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_TITLE_SIGN.pdf Graphic file (type pdf)
 
 <use HEB_TITLE_SIGN.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 662.
+Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 684.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_TITLE_SIGN.pdf Graphic file (type pdf)
  <use HEB_TITLE_SIGN.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 662.
+Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 684.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_TITLE_SIGN.pdf Graphic file (type pdf)
 
 <use HEB_TITLE_SIGN.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 662.
+Package pdftex.def Info: HEB_TITLE_SIGN.pdf, page1 used on input line 684.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [27 <./HEB_TITLE_SIGN.pdf>]
-<HEB_TITLE.pdf, id=758, 614.295pt x 794.97pt>
+ [26 <./HEB_TITLE_SIGN.pdf>]
+<HEB_TITLE.pdf, id=666, 614.295pt x 794.97pt>
 File: HEB_TITLE.pdf Graphic file (type pdf)
  <use HEB_TITLE.pdf>
-Package pdftex.def Info: HEB_TITLE.pdf used on input line 663.
+Package pdftex.def Info: HEB_TITLE.pdf used on input line 685.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: HEB_TITLE.pdf Graphic file (type pdf)
 
 <use HEB_TITLE.pdf>
-Package pdftex.def Info: HEB_TITLE.pdf used on input line 663.
+Package pdftex.def Info: HEB_TITLE.pdf used on input line 685.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <HEB_TITLE.pdf, id=761, page=1, 614.295pt x 794.97pt>
+ <HEB_TITLE.pdf, id=669, page=1, 614.295pt x 794.97pt>
 File: HEB_TITLE.pdf Graphic file (type pdf)
 
 <use HEB_TITLE.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 663.
+Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 685.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: HEB_TITLE.pdf Graphic file (type pdf)
  <use HEB_TITLE.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 663.
+Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 685.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_TITLE.pdf Graphic file (type pdf)
 
 <use HEB_TITLE.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 663.
+Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 685.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_TITLE.pdf Graphic file (type pdf)
  <use HEB_TITLE.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 663.
+Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 685.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: HEB_TITLE.pdf Graphic file (type pdf)
 
 <use HEB_TITLE.pdf, page 1>
-Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 663.
+Package pdftex.def Info: HEB_TITLE.pdf, page1 used on input line 685.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [28 <./HEB_TITLE.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 664.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 664.
+ [27 <./HEB_TITLE.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 686.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 686.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 664.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 664.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 686.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 686.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: AB96F86565BCCA742AC5DA8D83DA9B61;1445.
+(rerunfilecheck)             Checksum: 7D40162AE668B489CA68BDAC664398EE;1202.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 664.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 686.
  ) 
 Here is how much of TeX's memory you used:
- 11216 strings out of 494953
- 186684 string characters out of 6180978
- 264468 words of memory out of 5000000
- 13997 multiletter control sequences out of 15000+600000
+ 11172 strings out of 494953
+ 185774 string characters out of 6180978
+ 263098 words of memory out of 5000000
+ 13987 multiletter control sequences out of 15000+600000
  26035 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  44i,18n,87p,1082b,607s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2154,11 +2335,12 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
 -dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (31 pages, 5392337 bytes).
+lic/esint-type1/esint10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/symbols/msbm10.pfb>
+Output written on thesis.pdf (30 pages, 5365818 bytes).
 PDF statistics:
- 1291 PDF objects out of 1440 (max. 8388607)
- 538 compressed objects within 6 object streams
- 125 named destinations out of 1000 (max. 500000)
- 805 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1189 PDF objects out of 1200 (max. 8388607)
+ 443 compressed objects within 5 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 773 words of extra memory for PDF output out of 10000 (max. 10000000)
 
