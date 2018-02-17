@@ -3,17 +3,18 @@
 \BOOKMARK [1][-]{section.2.1}{Magnetic Resonance Imaging \(MRI\)}{chapter.2}% 3
 \BOOKMARK [1][-]{section.2.2}{MRI Acceleration}{chapter.2}% 4
 \BOOKMARK [2][-]{subsection.2.2.1}{Classic methods}{section.2.2}% 5
-\BOOKMARK [2][-]{subsection.2.2.2}{Data Driven Methods}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.2}{Machine Learning Methods}{section.2.2}% 6
 \BOOKMARK [0][-]{chapter.3}{Method}{}% 7
 \BOOKMARK [1][-]{section.3.1}{K-space}{chapter.3}% 8
-\BOOKMARK [1][-]{section.3.2}{Objective}{chapter.3}% 9
-\BOOKMARK [1][-]{section.3.3}{Network Architecture}{chapter.3}% 10
-\BOOKMARK [0][-]{chapter.4}{Experimental Results}{}% 11
-\BOOKMARK [1][-]{section.4.1}{Random Gaussian Sampling}{chapter.4}% 12
-\BOOKMARK [2][-]{subsection.4.1.1}{PSNR and SSIM}{section.4.1}% 13
-\BOOKMARK [2][-]{subsection.4.1.2}{Brain Extraction - Skull Stripping}{section.4.1}% 14
-\BOOKMARK [2][-]{subsection.4.1.3}{Brain Segmentation}{section.4.1}% 15
-\BOOKMARK [1][-]{section.4.2}{Phase Encoding Sampling}{chapter.4}% 16
-\BOOKMARK [0][-]{chapter.5}{Summary and Discussion}{}% 17
-\BOOKMARK [1][-]{section.5.1}{Discussion}{chapter.5}% 18
-\BOOKMARK [2][-]{subsection.5.1.1}{Acknowledgment}{section.5.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{Notations and Problem Definition}{section.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.1.2}{K-space GAN}{section.3.1}% 10
+\BOOKMARK [2][-]{subsection.3.1.3}{System Architecture}{section.3.1}% 11
+\BOOKMARK [0][-]{chapter.4}{Experimental Results}{}% 12
+\BOOKMARK [1][-]{section.4.1}{Random Gaussian Sampling}{chapter.4}% 13
+\BOOKMARK [2][-]{subsection.4.1.1}{PSNR and SSIM}{section.4.1}% 14
+\BOOKMARK [2][-]{subsection.4.1.2}{Brain Extraction - Skull Stripping}{section.4.1}% 15
+\BOOKMARK [2][-]{subsection.4.1.3}{Brain Segmentation}{section.4.1}% 16
+\BOOKMARK [1][-]{section.4.2}{Phase Encoding Sampling}{chapter.4}% 17
+\BOOKMARK [0][-]{chapter.5}{Summary and Discussion}{}% 18
+\BOOKMARK [1][-]{section.5.1}{Discussion}{chapter.5}% 19
+\BOOKMARK [2][-]{subsection.5.1.1}{Acknowledgment}{section.5.1}% 20
