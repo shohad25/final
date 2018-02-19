@@ -74,7 +74,7 @@ Segmentation compatibility, measured in terms of Dice scores and Hausdorff dista
 	
 	\item[3]{Ohad Shitrit and Tammy Riklin Raviv. Accelerated Magnetic Resonance Imaging by Adversarial Neural Network. In Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support (pp. 30-38). Springer, Cham.}
 	
-	\item[4]{ TODO: add the Journal submission 
+	\item[4]{ Submission to IEEE journal.
 			}
 	
 \end{itemize}
@@ -299,7 +299,7 @@ To demonstrate the clinical usability of the reconstructed images we performed a
 
 \subsection{PSNR and SSIM}
 PSNR and SSIM are the most commonly used measures for evaluation of image reconstruction quality. PSNR measures the Mean Squared Error (MSE) between the fully-sampled MR image and the reconstructed image.
-Quantitative evaluation is presented in~Table~\ref{tbl:PSNR_NO_MASK} and a graphical visualization in ~Figure~\ref{fig:error_psnr_errorbar}. The PSNR is calculated for the entire image without masking. Note that the proposed method outperforms the others. To support this, we also calculated the two-sample t-Test for the table's scores. The differences are statistically significant (p-values~$<0.005$) for all pairwise comparisons between the results of our method and the others.
+Quantitative evaluation is presented in~Table~\ref{tbl:PSNR_NO_MASK} and a graphical visualization in~Figure~\ref{fig:error_psnr_errorbar}. The PSNR is calculated for the entire image without masking. Note that the proposed method outperforms the others. To support this, we also calculated the two-sample t-Test for the table's scores. The differences are statistically significant (p-values~$<0.005$) for all pairwise comparisons between the results of our method and the others.
 
 \begin{table}[H]
 	\centering{}
@@ -323,7 +323,8 @@ Quantitative evaluation is presented in~Table~\ref{tbl:PSNR_NO_MASK} and a graph
 \centering
 \includegraphics[width=0.7\linewidth]{include/grp2/error_psnr_errorbar}
 \caption{PSNR without masking error-bar}
-\end{figure}\label{fig:error_psnr_errorbar}
+\label{fig:error_psnr_errorbar}
+\end{figure}
 
 An additional validation of our model is performed by calculating the PSNR measure on different brain tissues. We applied the commonly used FAST~\cite{zhang2001segmentation} image segmentation algorithm on the original fully-sampled MR image and then used it for calculating the masked-PSNR on gray matter (GM), white matter (WM), and the Cerebrospinal Fluid (CSF). Results are presented in~Table~\ref{tbl:PSNR_WITH_MASK}. 
 The differences are statistically significant with p-values~$<0.0005$ for CS-MRI and zero-filled for sampling factors 2.5 and 4, and also for IM-CNN-L2 with p-values~$<0.0001$ for sampling factor 6.
